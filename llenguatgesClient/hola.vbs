@@ -1,1 +1,1 @@
-document.write("Hola, Ramis!")
+document.write("Hola, Eclipse!")
