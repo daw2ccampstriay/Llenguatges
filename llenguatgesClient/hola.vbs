@@ -1,1 +1,1 @@
-document.write("Hola, Eclipse!")
+document.write("Hola, Github!")
