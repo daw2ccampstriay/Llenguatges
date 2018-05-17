@@ -1,5 +1,5 @@
 public class HolaRamis {
 	public static void main(String[] args) {
-		System.out.println("Hola, Github!");
+		System.out.println("Hola, VisualStudio!");
 	}
 }
